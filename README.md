@@ -10,4 +10,4 @@
 
 
 
-<a href=""><img align="left" width="250" height="250" src="https://github.com/Karinecasant/karinesantos/blob/main/my-octocat-1612548034856.png"></a> ![Karine's github stats](https://github-readme-stats.vercel.app/api?username=karinecasant&show_icons=true&theme=tokyonight)
+<a href=""><img align="left" width="250" height="250" src="https://github.com/Karinecasant/Karinecasant/blob/main/my-octocat-1612554808767-2.png"></a> ![Karine's github stats](https://github-readme-stats.vercel.app/api?username=karinecasant&show_icons=true&theme=tokyonight)
