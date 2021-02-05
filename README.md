@@ -1,4 +1,4 @@
-### Hi there, I'm Luisa 👋
+### Hi there, I'm Karine 👋
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/karinecasant)](https://github.com/karinecasant)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vittoria-borotto/)](https://www.linkedin.com/in/karine-santos-8023b6127/)
