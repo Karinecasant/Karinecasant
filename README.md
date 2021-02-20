@@ -10,4 +10,4 @@
 
 
 
-<a href=""><img align="left" width="250" height="250" src="https://github.com/Karinecasant/Karinecasant/blob/main/hermione-harry-potter-gif.gif"></a> ![Karine's github stats](https://github-readme-stats.vercel.app/api?username=karinecasant&show_icons=true&theme=tokyonight)
+<a href=""><img align="left" width="250" height="250" src="https://github.com/Karinecasant/Karinecasant/blob/main/1ad68d3c0159994a2314346e28ebfeb2.gif"></a> ![Karine's github stats](https://github-readme-stats.vercel.app/api?username=karinecasant&show_icons=true&theme=tokyonight)
