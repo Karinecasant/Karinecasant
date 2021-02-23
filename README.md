@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Eu sou Karine, moro em São Paulo, Brasil.Apaixonada por tecnologia, desenvolvimento full stack, inovação e possibilidades.
+Eu sou Karine, moro em São Paulo, Brasil. Apaixonada por tecnologia, desenvolvimento full stack, inovação e possibilidades.
 
 - 💻 Graduada em engenharia de produção
 - 🚀 Estudando para me tornar uma dev fullstack
