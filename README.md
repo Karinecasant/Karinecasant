@@ -3,7 +3,7 @@
 # Hello, folks! I'm Karine!
 
 - 💻 Graduada em Engenharia de Produção
-- 🚀 Bootcamp Generation Brasil - Desenvolvedor Web Full Stack
+- 🚀 Bootcamp Generation Brasil - Desenvolvedora Web Full Stack
 - 💁 Interessada em ajudar mulheres a ingressarem na área de tecnologia e desenvolvimento
 - 📫 Você pode me encontrar nas redes:[![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/karinecasant)](https://github.com/karinecasant) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vittoria-borotto/)](https://www.linkedin.com/in/karine-santos-8023b6127/)
  
@@ -21,5 +21,5 @@
 
  
  
- <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karinecasant&layout=compact&theme=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
- <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=Karinecasant&show_icons=true,css&layout=compact&theme=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+ <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karinecasant&layout=compact&theme=c9cacc&icon_color=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+ <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=Karinecasant&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
