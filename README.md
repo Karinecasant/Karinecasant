@@ -1,4 +1,4 @@
-<img align="right" width="400px" src="https://github.com/Karinecasant/Karinecasant/blob/main/318fbca0948500fd7828566e0801eb7f2c222db6_hq.gif">
+<img align="right" width="500px" src="https://github.com/Karinecasant/Karinecasant/blob/main/QueensGambit.gif">
 
 # Hello, folks! I'm Karine!
 
