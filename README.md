@@ -21,5 +21,5 @@
 
  
  
- <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karinecasant&layout=compact&theme=c9cacc&icon_color=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
- <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=Karinecasant&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+ <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karinecasant&layout=compact&theme=c9cacc&icon_color=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+ <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=Karinecasant&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
