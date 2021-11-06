@@ -1,6 +1,6 @@
 <img align="right" width="400px" src="https://github.com/Karinecasant/bootstrap/blob/main/assets/img/original.gif?raw=true">
 
-### Hello, folks! I'm Karine!
+## Hello, folks! I'm Karine!
 
 - I'm a Software Engineer from Brazil.
 
