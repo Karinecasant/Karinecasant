@@ -2,10 +2,14 @@
 
 # Hello, folks! I'm Karine!
 
-- 💻 Graduada em Engenharia de Produção
-- 🚀 Bootcamp Generation Brasil - Desenvolvedora Web Full Stack
-- 💁 Interessada em ajudar mulheres a ingressarem na área de tecnologia e desenvolvimento
-- 📫 Você pode me encontrar nas redes:[![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/karinecasant)](https://github.com/karinecasant) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vittoria-borotto/)](https://www.linkedin.com/in/karine-santos-8023b6127/)
+I'm a software engineer from Brazil.
+
+I'm currently studying modern backend APIs, FastAPI and Python.
+
+I'm currently dedicating a high percentage of my time to learn Deep Learning/Machine Learning, SQL/NoSQL databases and Big Data.
+
+
+- 📫 You can find me on: [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/karinecasant)](https://github.com/karinecasant) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vittoria-borotto/)](https://www.linkedin.com/in/karine-santos-8023b6127/)
  
  # Technologies 💻
 ![Java](https://camo.githubusercontent.com/e17e119d8c9bb34ac9710be65d35d52a7e04cc260476760305525204df5f34b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6a617661)
@@ -18,8 +22,3 @@
 ![GitHub](https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562)
 ![Eclipse](https://camo.githubusercontent.com/5395fa328395998163ba3ae03e20eb6cd633c2535f4149cc6b2f5fa40113ecaf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45636c697073652d3243323235353f7374796c653d666c61742d737175617265266c6f676f3d65636c69707365266c6f676f436f6c6f723d7768697465)
 ![VSCode](https://camo.githubusercontent.com/639d2f4c43a01e8f0382589b9e2dae1d20161b6ec0bc9a40dcd99917f1b2286d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465)
-
- 
- 
- <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karinecasant&layout=compact&theme=c9cacc&icon_color=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
- <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=Karinecasant&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
