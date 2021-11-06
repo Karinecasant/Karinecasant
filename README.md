@@ -6,8 +6,7 @@
 
 - I'm currently studying modern backend APIs, FastAPI and Python.
 
-- I'm currently dedicating a high percentage of my time to learn 
-  Deep Learning/Machine Learning, SQL & NoSQL databases and Big Data.
+- I'm currently dedicating a high percentage of my time to learn <br> Deep Learning/Machine Learning, SQL & NoSQL databases and Big Data.
 
 - I take advantage of my free time to learn piano.
 
