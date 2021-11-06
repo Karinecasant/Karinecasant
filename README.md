@@ -2,12 +2,11 @@
 
 # Hello, folks! I'm Karine!
 
-I'm a software engineer from Brazil.
+- I'm a software engineer from Brazil ![image](https://user-images.githubusercontent.com/77842351/140591730-7a75d384-d811-4077-9fa0-332305158bb6.png)
 
-I'm currently studying modern backend APIs, FastAPI and Python.
+- I'm currently studying modern backend APIs, FastAPI and Python ![image](https://user-images.githubusercontent.com/77842351/140591769-09dbc1e2-85b5-494c-a1b6-41464d3310d4.png)
 
-I'm currently dedicating a high percentage of my time to learn Deep Learning/Machine Learning, SQL/NoSQL databases and Big Data.
-
+- I'm currently dedicating a high percentage of my time to learn Deep Learning/Machine Learning, SQL/NoSQL databases and Big Data ![image](https://user-images.githubusercontent.com/77842351/140591905-5215e3f2-8523-4da5-992f-da271b907618.png)
 
 - 📫 You can find me on: [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/karinecasant)](https://github.com/karinecasant) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vittoria-borotto/)](https://www.linkedin.com/in/karine-santos-8023b6127/)
  
