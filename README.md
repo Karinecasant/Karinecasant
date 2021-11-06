@@ -1,4 +1,4 @@
-<img align="center" width="400px" src="https://github.com/Karinecasant/bootstrap/blob/main/assets/img/original.gif?raw=true">
+<img align="right" width="600px" src="https://github.com/Karinecasant/bootstrap/blob/main/assets/img/original.gif?raw=true">
 
 # Hello, folks! I'm Karine!
 
