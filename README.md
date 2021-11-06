@@ -2,11 +2,13 @@
 
 # Hello, folks! I'm Karine!
 
-- I'm a software engineer from Brazil.
+- I'm a Software Engineer from Brazil.
 
 - I'm currently studying modern backend APIs, FastAPI and Python.
 
-- I'm currently dedicating a high percentage of my time to learn Deep Learning/Machine Learning, SQL/NoSQL databases and Big Data.
+- I'm currently dedicating a high percentage of my time to learn Deep Learning/Machine Learning, SQL & NoSQL databases and Big Data.
+
+- I take advantage of my free time to learn piano.
 
 - 📫 You can find me on: [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/karinecasant)](https://github.com/karinecasant) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vittoria-borotto/)](https://www.linkedin.com/in/karine-santos-8023b6127/)
  
